@@ -60,4 +60,5 @@ class Clan
   {
     return $this->members = $members;
   }
+  
 }
